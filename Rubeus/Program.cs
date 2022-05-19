@@ -5,13 +5,7 @@ using System.IO;
 
 namespace Rubeus
 {
-    public class Program
-    {
-        // global that specifies if ticket output should be wrapped or not
-        public static bool wrapTickets = true;
-
-        private static void FileExecute(string commandName, Dictionary<string, string> parsedArgs)
-        {
+    public cla
             // execute w/ stdout/err redirected to a file
 
             string file = parsedArgs["/consoleoutfile"];
