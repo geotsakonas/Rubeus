@@ -2,12 +2,8 @@ global:
     violations:
         exclude: 
             - Missing Module Docstring
-
 modules:
-    
     - path: "/Rubeus/Commands"
-      languages:
-        - Python
       violations:
         exclude:
           - Redundant Using Directive
