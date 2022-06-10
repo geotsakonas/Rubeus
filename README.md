@@ -16,7 +16,7 @@ The [KerberosRequestorSecurityToken.GetRequest](https://msdn.microsoft.com/en-us
 
 [@harmj0y](https://twitter.com/harmj0y) is the primary author of this code base.
 
-Rubeus is licensed under the BSD 3-Clause license.
+Rubeus is licensed under the BSD 3-Clause license
 
 ## Table of Contents
 
